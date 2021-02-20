@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/experimentaltry/static/css/main.62277520.chunk.css",
+    "main.css": "/experimentaltry/static/css/main.ac32ed9c.chunk.css",
     "main.js": "/experimentaltry/static/js/main.35ac3e20.chunk.js",
     "main.js.map": "/experimentaltry/static/js/main.35ac3e20.chunk.js.map",
     "runtime-main.js": "/experimentaltry/static/js/runtime-main.7a64b421.js",
@@ -10,15 +10,15 @@
     "static/js/2.a14de3fd.chunk.js.map": "/experimentaltry/static/js/2.a14de3fd.chunk.js.map",
     "index.html": "/experimentaltry/index.html",
     "static/css/2.400ad86f.chunk.css.map": "/experimentaltry/static/css/2.400ad86f.chunk.css.map",
-    "static/css/main.62277520.chunk.css.map": "/experimentaltry/static/css/main.62277520.chunk.css.map",
+    "static/css/main.ac32ed9c.chunk.css.map": "/experimentaltry/static/css/main.ac32ed9c.chunk.css.map",
     "static/js/2.a14de3fd.chunk.js.LICENSE.txt": "/experimentaltry/static/js/2.a14de3fd.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/experimentaltry/static/media/SEGA.47b4bfa9.woff"
+    "static/media/App.css": "/experimentaltry/static/media/SoleilBook.e4b0cec4.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.7a64b421.js",
     "static/css/2.400ad86f.chunk.css",
     "static/js/2.a14de3fd.chunk.js",
-    "static/css/main.62277520.chunk.css",
+    "static/css/main.ac32ed9c.chunk.css",
     "static/js/main.35ac3e20.chunk.js"
   ]
 }
